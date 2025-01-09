@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(198, 196, 80, 0.47);
+    color: darkslategrey;
+}
+h1 {
+    color: darkgreen;
+    background-color: rgb(255, 255, 255);
+
+}
+h2 {
+    color: firebrick;
+}
